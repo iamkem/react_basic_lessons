@@ -8,6 +8,8 @@
 
 .App-header {
     background-image: url("sunset_winter_shadows-wallpaper-1366x768.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -24,6 +26,3 @@
 .App-link {
     color: #09d3ac;
 }
-
-
-  
